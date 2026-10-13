@@ -4,8 +4,8 @@ Send a synchronous test email from the command line to verify that a Laravel app
 
 ## Requirements
 
-- PHP ^8.3
-- Laravel ^13
+- PHP ^8.2
+- Laravel ^12 or ^13
 
 ## Installation
 
